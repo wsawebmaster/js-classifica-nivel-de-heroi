@@ -36,19 +36,6 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve=se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
-## 💻 Projeto
-> Frontend da aplicação 📸
-
-<p align="center">
-  <img alt="To-do list" src="./img/frontend.png" width="100%">
-</p>
-
-[Acessar o projeto](https://wsawebmaster.github.io/portfolio/)
-
-<br />
-
-npm init
-npm install node-sass
 
 ---
 ---
